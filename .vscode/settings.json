@@ -1,0 +1,17 @@
+{
+    "files.associations": {
+        "unp.h": "c",
+        "un.h": "c",
+        "types.h": "c",
+        "fcntl.h": "c",
+        "netdb.h": "c",
+        "stdio.h": "c",
+        "signal.h": "c",
+        "stdlib.h": "c",
+        "syslog.h": "c",
+        "stdarg.h": "c",
+        "string.h": "c",
+        "in.h": "c"
+    },
+    "C_Cpp.errorSquiggles": "Disabled"
+}
